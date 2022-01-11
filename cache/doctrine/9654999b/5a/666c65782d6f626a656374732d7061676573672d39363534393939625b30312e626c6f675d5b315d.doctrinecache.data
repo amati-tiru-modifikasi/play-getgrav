@@ -1,0 +1,26 @@
+1641941179
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"blog";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:13:{s:5:"title";s:4:"Home";s:7:"sitemap";a:1:{s:10:"changefreq";s:7:"monthly";}s:12:"body_classes";s:30:"header-dark header-transparent";s:12:"hero_classes";s:63:"text-light title-h1h2 overlay-dark-gradient hero-large parallax";s:10:"hero_image";s:8:"road.jpg";s:6:"custom";s:9:"new thing";s:8:"blog_url";s:5:"/blog";s:12:"show_sidebar";b:1;s:16:"show_breadcrumbs";b:1;s:15:"show_pagination";b:1;s:7:"content";a:5:{s:5:"items";s:14:"@self.children";s:5:"limit";i:6;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}s:4:"feed";a:2:{s:11:"description";s:23:"Sample Blog Description";s:5:"limit";i:10;}s:10:"pagination";b:1;}s:11:"frontmatter";s:520:"title: Home
+sitemap:
+    changefreq: monthly
+body_classes: 'header-dark header-transparent'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
+hero_image: road.jpg
+custom: 'new thing'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+content:
+    items: '@self.children'
+    limit: 6
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
+feed:
+    description: 'Sample Blog Description'
+    limit: 10
+pagination: true";s:8:"markdown";s:55:"# My **Grav**tastic Blog
+## the ramblings of a rambler
+";}s:7:"storage";a:7:{s:3:"key";s:4:"blog";s:11:"storage_key";s:7:"01.blog";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1637105247;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1637105247;}}s:8:"children";a:8:{s:27:"classic-modern-architecture";b:0;s:20:"daring-fireball-link";b:0;s:14:"focus-and-blur";b:0;s:12:"hero-classes";b:0;s:15:"london-at-night";b:0;s:15:"random-thoughts";b:0;s:15:"text-typography";b:0;s:16:"the-urban-jungle";b:0;}s:8:"checksum";s:32:"9f190dde5a83c2bf83b46fac9aeece17";}}
